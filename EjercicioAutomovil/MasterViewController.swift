@@ -12,7 +12,7 @@ class MasterViewController: UITableViewController {
 
     var detailViewController: DetailViewController? = nil
     var objects = [AnyObject]()
-
+    //modif1
 
     override func viewDidLoad() {
         super.viewDidLoad()
